@@ -37,7 +37,7 @@ from telegram.ext import (
 from fpdf import FPDF
 
 # ---------------- TOKEN ----------------
-TOKEN = os.getenv("XENROSE_BOT_TOKEN", "")
+TOKEN = os.getenv("XENROSE_BOT_TOKEN", "7672810601:AAEOxQvIaQaO3NoUxqe9JLbkrhlOy4D2fog")
 
 # ---------------- DATA ----------------
 DATA_FILE = "userdata.json"
